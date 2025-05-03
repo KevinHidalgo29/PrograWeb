@@ -1,0 +1,97 @@
+header ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 25px;
+}
+
+header ul li {
+    margin: 15px;
+    padding-top: 15px;
+}
+
+.logoM {
+    padding-top: 1px;
+}
+
+
+.bannerM {
+    display: block;
+    margin-left: 10px;
+    margin-right: 100px;
+    width: 50%;
+}
+
+
+.div01 {
+    display: flex;
+}
+
+.div01 h1 {
+    display: flex;
+    color: rgb(255, 255, 255);
+    margin-left: -1800px;
+    margin-top: 200px;
+    font-size: 40px;
+
+}
+.div01 p {
+    display: flex;
+    color: rgb(255, 255, 255);
+    margin-left: -250px;
+    margin-top: 260px;
+}
+
+.div02 ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 25px;
+    margin-left: -337px;
+    margin-top: 310px;
+}
+.div02 ul li {
+    margin: 10px;
+}
+.boton1 {
+        background-color: #04ff2e; 
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 3px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+.boton2 {
+        border: none;
+        color: rgb(0, 255, 34);
+        padding: 3px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+
+
+.paginas ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 25px;
+}
+
+.ultimo {
+    background-color: #c1c4c1;
+}
+
+.ultimo ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 25px;
+}
+
+
+
+
